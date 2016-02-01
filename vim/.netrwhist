@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/blubecker/bf_automation/qa/features'
+let g:netrw_dirhist_2='/Users/blubecker/bf_automation/qa/features/user_role_features'
+let g:netrw_dirhist_3='/Users/blubecker/bf_automation/qa/features'
+let g:netrw_dirhist_4='/Users/blubecker/bf_automation/qa/features/step_definitions'
+let g:netrw_dirhist_5='/Users/blubecker/bf_automation/qa/features/user_role_features'
+let g:netrw_dirhist_6='/Users/blubecker/elixir_projects/dicex'
+let g:netrw_dirhist_7='/Users/blubecker/elixir_projects/dicex/lib'
