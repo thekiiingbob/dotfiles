@@ -60,6 +60,9 @@ export PATH="/Users/blubecker/source/elixir/bin:/usr/local/bin:/usr/bin:/bin:/us
 export ANDROID_HOME=/Applications/Android\ Studio.app/sdk
 export set PATH=$PATH:$ANDROID_HOME/tools
 export set PATH=$PATH:$ANDROID_HOME/platform_tools
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
